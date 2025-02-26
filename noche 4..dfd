@@ -4,18 +4,22 @@
 1
 0
 0
+4
+1
+95
+'señor usuario por favor digite cuantas tazas de cafe quiere comprar'                          
 5
 1
-1
-x
+5
+tazas
 6
 1
-4
-terc
-4
-60-x
+1
+a
+10
+tazas*7000
 4
 1
-4
-terc
+18
+'debes pagar' ,  a
 1
